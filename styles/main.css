@@ -16,16 +16,16 @@ img {
 
 /* Common Classes */
 .primary-text {
-  color: #56a79a;
+  color: #2158ff;
 }
 
 .primary-background {
-  background-color: #56a79a;
+  background-color: #2158ff;
 }
 
 /* Header */
 #main-header {
-  border-bottom: 1px solid #56a79a;
+  border-bottom: 1px solid #2158ff;
 }
 
 /* Navbar */
@@ -45,14 +45,14 @@ img {
 }
 
 #navbar li.current a, #navbar a:hover {
-  color: #56a79a;
-  border-bottom: 3px solid #56a79a;
+  color: #2158ff;
+  border-bottom: 3px solid #2158ff;
   padding-bottom: 3px;
 }
 
 #showcase {
   background:url('../images/showcase.jpg') no-repeat center center;
-  border-bottom: 1px solid #56a79a;
+  border-bottom: 1px solid #2158ff;
   margin-bottom: 30px;
 }
 
@@ -94,7 +94,7 @@ img {
 
 #features .fa {
   font-size: 60px;
-  color: #56a79a;
+  color: #2158ff;
 }
 
 /* Info */
@@ -150,7 +150,7 @@ img {
 
 /* Footer */
 #main-footer {
-  background: #56a79a;
+  background: #2158ff;
   color: #fff;
 }
 
@@ -171,7 +171,7 @@ img {
 }
 
 .services ul li:nth-child(even) {
-  background: #56a79a;
+  background: #2158ff;
   color: #fff;
 }
 
